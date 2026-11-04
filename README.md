@@ -206,6 +206,3 @@ Eac3to-Audio-Delay/
 - Custom output paths (`-o`) support one input file at a time.
 - Log files with identical source filenames may overwrite each other when processing files from different directories.
 
-## License
-
-MIT License
